@@ -1,0 +1,30 @@
+title: Charles Gao
+description: >-
+  Charles Gao is a first-year MBA student at Berkeley Haas working at the
+  intersection of product marketing and AI products.
+url: "https://charlesgao721.github.io"
+baseurl: ""
+lang: en-US
+
+markdown: kramdown
+permalink: pretty
+
+author:
+  name: Charles Gao
+
+social:
+  name: Charles Gao
+  links:
+    - https://www.linkedin.com/in/chang-gao
+
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
+
+exclude:
+  - PLAN.md
+  - README.md
+  - Gemfile
+  - Gemfile.lock
+  - vendor
+  - node_modules

@@ -1,0 +1,13 @@
+{% assign navigation_items = "Home:/,About:/about/,Work Experience:/work-experience/,Contact:/contact/" | split: "," %}
+<nav class="site-navigation" aria-label="Main navigation">
+  <ul>
+    {% for item in navigation_items %}
+      {% assign item_parts = item | split: ":" %}
+      {% assign label = item_parts[0] %}
+      {% assign path = item_parts[1] %}
+      <li>
+        <a href="{{ path | relative_url }}"{% if page.url == path %} aria-current="page"{% endif %}>{{ label | escape }}</a>
+      </li>
+    {% endfor %}
+  </ul>
+</nav>
