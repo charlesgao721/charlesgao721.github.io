@@ -8,6 +8,7 @@ node_modules/
 .cache/
 .local/
 .conversation/
+.config/
 
 # Editor and operating-system files
 .DS_Store
