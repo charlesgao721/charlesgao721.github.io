@@ -5,18 +5,10 @@ description: About Charles Gao, a first-year MBA student at Berkeley Haas focuse
 permalink: /about/
 ---
 
-I am a first-year MBA student at the Berkeley Haas School of Business, graduating in May 2027. I work at the intersection of product marketing and AI products. Before Haas, I spent four years in consulting, where I focused on digital transformation and data strategy.
+I am a first-year MBA student at the Berkeley Haas School of Business, graduating in May 2027. Before Haas I spent four years as a consultant at KPMG Advisory in Shenzhen.
 
-## Education
+My work there ran from growth and organizational strategy to supply chain redesign and enterprise data governance, across retail, logistics, energy, and the public sector. The common thread was translation: taking a technical or operational reality and making it legible enough for a decision to get made.
 
-### Master of Business Administration
+I am currently a Gen AI Product Operations Intern on the North America regional product marketing team at TikTok, supporting Symphony, the company's generative AI creative suite. After Haas I am aiming for product marketing at a large technology company, ideally on an AI product.
 
-**University of California, Berkeley, Haas School of Business**  
-Expected May 2027  
-Berkeley Haas Merit Scholarship
-
-### Bachelor of Science in Applied Mathematics and Economics
-
-**University of California, Los Angeles**  
-2020  
-Dean's Honors List
+I work fluidly in Chinese and English, which has been useful every time a product had to land in more than one market.
